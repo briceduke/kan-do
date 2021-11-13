@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Describe your project
+A minimalist productivity app that uses the Kanban system to help you achieve your goals!
 
 ## :sparkles: Features
 
