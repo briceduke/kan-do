@@ -50,11 +50,11 @@ Describe your project
 
 ## :sparkles: Features
 
-[] Draggable Kanban board
-[] Multiple boards per user
-[] Sync data via social login
-[] Mobile client
-[] Desktop client
+- [ ] Draggable Kanban board
+- [ ] Multiple boards per user
+- [ ] Sync data via social login
+- [ ] Mobile client
+- [ ] Desktop client
 
 ## :rocket: Technologies
 
